@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there 👋, I'm Lavanya R!
 
-<!--
-**LAVANYA-R28072005/LAVANYA-R28072005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 About Me
+Hi, I'm Lavanya R from Kolar District, Karnataka. I recently completed my Diploma in Computer Science and am currently pursuing a Data Science course to build my skills in programming, data analysis, and machine learning.
+I'm passionate about learning and applying data-driven solutions to real-world problems. I’m currently working on projects involving Python, Machine Learning, Data Visualization, and Web Deployment.
+💡 Always eager to learn and explore real-world projects.  
+📌 Recently worked at a Cyber Center (Gseva Kendra) gaining practical experience with digital services.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Projects
+
+-  *Handwritten Digit Recognition*  
+-  *Face Recognition Attendance Management System*   
+-  *Movie Recommendation System*
+-  *Simple Portfolia*
+-  *Office Employee Management System*
+-  *Chatbot Project*
+
+---
+
+### 📫 Connect with Me
+
+- 📧 Email: lavanya.rk1924@gmail.com  
+- 💼 [LinkedIn](www.linkedin.com/in/lavanya-r-028381350)  
+  
+
+---
+
+![Lavanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavanyaR&show_icons=true&theme=radical)
+
+
