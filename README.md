@@ -23,7 +23,7 @@ I'm passionate about learning and applying data-driven solutions to real-world p
 ### 📫 Connect with Me
 
 - 📧 Email: lavanya.rk1924@gmail.com  
-- 💼 [LinkedIn](www.linkedin.com/in/lavanya-r-028381350)  
+- 💼 [LinkedIn](www.linkedin.com/in/lavanya-r-data-scientist)  
   
 
 ---
